@@ -10,6 +10,7 @@ collection of repositories used for [stopwords_combined.csv](https://github.com/
 1. https://github.com/louisowen6/NLP_bahasa_resources/blob/master/combined_stop_words.txt
 2. https://github.com/yasirutomo/python-sentianalysis-id/blob/master/data/feature_list/stopwordsID.txt
 3. https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/stopword.txt
+4. https://github.com/sastrapy/sastrapy/blob/master/src/Sastrapy/Corpus/Dictionary/stopwords.txt
 
 ## Slang Words
 collection of repositories used for [slangwords_combined.csv](https://github.com/alnad01/preprocessing-bahasa/blob/main/slangwords_combined.csv):

@@ -17,6 +17,8 @@ collection of repositories used for [slangwords_combined.csv](https://github.com
 2. https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/kbba.txt
 3. https://github.com/panggi/pujangga/blob/master/resource/formalization/formalizationDict.txt
 4. https://github.com/agusmakmun/SentiStrengthID/blob/master/id_dict/slangword.txt
+5. https://github.com/yudiwbs/indonesian_slang/blob/main/catatan_kata_sinonim.txt
+6. https://github.com/sastrapy/sastrapy/blob/master/src/Sastrapy/Corpus/Dictionary/slang.txt
 
 
 

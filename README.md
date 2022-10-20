@@ -1,9 +1,7 @@
 # **Preprocessing Bahasa**
 A list of usable dataset for preprocessing in bahasa 
 
-Thanks to:
-https://github.com/louisowen6/NLP_bahasa_resources#table-of-contents 
-for providing the links to useful dataset and resources for NLP in Bahasa Indonesia.
+Thanks to [louisowen6](https://github.com/louisowen6/NLP_bahasa_resources#table-of-contents) for providing the links to useful dataset and resources for NLP in Bahasa Indonesia.
 
 ## Stopwords
 collection of repositories used for [stopwords_combined.csv](https://github.com/alnad01/preprocessing-bahasa/blob/main/stopwords_combined.csv):
